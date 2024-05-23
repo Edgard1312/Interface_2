@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="INGRESAR">INGRESAR</string>
+    <string name="TODO">TODO</string>
+    <string name="ingrsa_con_tu_cuenta_de_google">Ingrsa con tu cuenta de Google</string>
+    <string name="aqu">Aquí</string>
+    <string name="si_no_tienes_una_cuenta_registrate_aqu">Si no tienes una cuenta registrate aquí</string>
+    <string name="si_no_tienes_una_cuenta_registrate_aquí">si_no_tienes_una_cuenta_registrate_aquí</string>
+</resources>
